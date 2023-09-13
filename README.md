@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# `NLW AI || Foundations` - Shorts Summary
+# NLW AI || Foundations - `Shorts Summary`
 
 <div align="center">
    <img alt="Landing do projeto" src=".github/assets/preview.png" width="80%"/>
@@ -9,7 +9,7 @@
 
 <div align="center">
    <a href="https://github.com/mgckaled">
-      <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-yellow">
+      <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-purple">
    </a>
    <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/nlw-ai-shorts-summary">
    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/nlw-ai-shorts-summary">
@@ -39,6 +39,10 @@ Indisponível
 
 - [`vite`](https://nodejs.org/)
 - [`phosphor icons`](https://phosphoricons.com/)
+- [`express`](https://expressjs.com/)
+- [`cors`](https://www.npmjs.com/package/cors)
+- [`axios`](https://axios-http.com/)
+- [`ydtl-core`](https://www.npmjs.com/package/ytdl-core)
 
 ## Licença
 

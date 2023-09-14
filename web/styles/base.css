@@ -4,23 +4,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background: #202024;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #8257e5;
-  border-radius: 3px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #633bbc;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -43,4 +26,3 @@ button,
 input {
   font-family: "Roboto", sans-serif;
 }
-
